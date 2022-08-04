@@ -1,9 +1,9 @@
 # NFT STAKE Contract
 
-There are many token projects will allos there users to stake ERC20/BEP20 tokens and earn yield in same token, but there are very few projects in NFT stake which allow people to stake NFT and earn yield.
+There are many token projects will allow their users to stake ERC20/BEP20 tokens and earn yield in same token, but there are very few projects in NFTs which allow people to stake NFT and earn yield.
 
 This project demonstrates staking an NFT use case. 
-The project uses Solodity for wring the staking DAPP and targets all EVM compatible blockchain like BSC/TRC/ETH etc.
+The project uses Solidity for the staking DAPP Contract and targets all EVM compatible blockchain like BSC/TRC/ETH etc.
 
 You may directly use the contracts/nftstake.sol in web3 IDE like Remix or use framework like hardhat or truffle for deployment and testing.
 
